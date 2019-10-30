@@ -6,6 +6,7 @@ void printline(int k)
 	{
 		printf("_");
 	}
+	//gfghfghfhgfhgfhg
 	printf("\n");
 }
 float read2(float x[][50],int a,int b)
